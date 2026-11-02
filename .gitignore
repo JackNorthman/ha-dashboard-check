@@ -1,0 +1,13 @@
+# screenshots and dumped configs from local runs
+*.png
+*.json
+
+
+# never commit a token
+.ha_token
+*.token
+.env
+
+__pycache__/
+*.pyc
+.DS_Store
